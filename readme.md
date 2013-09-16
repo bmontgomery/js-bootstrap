@@ -1,6 +1,6 @@
 # JS Application Bootstrap
 
-This project simply defines some common-sense defaults for starting development on a JavaScript application. It is quick and dirty, and takes dependencies on very few things.
+This project simply provides a basic starting point for quickly starting development on a JavaScript application.
 
 ## Dependencies
 
