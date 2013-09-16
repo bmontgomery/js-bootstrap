@@ -9,6 +9,10 @@ This project simply defines some common-sense defaults for starting development 
 
 ## How to use
 
+Install all dependencies:
+
+    npm install
+
 Start the application by navigating to the directory in a command line console, and typing
 
     node index.js
