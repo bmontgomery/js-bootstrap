@@ -1,6 +1,6 @@
 # JS Application Bootstrap
 
-This project simply provides a basic starting point for quickly starting development on a JavaScript application.
+This project simply provides a basic starting point for quickly starting development on a JavaScript browser application. The goal is to quickly spin up a web server which is pre-configured to serve a basic HTML page which includes a boilerplate JavaScript file on the page already, so all you have to do is start editing the app.js file to get started.
 
 ## Dependencies
 
